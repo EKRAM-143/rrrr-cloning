@@ -2,10 +2,10 @@
 [![MasterHead](https://thumbs.gfycat.com/AmusingAntiqueEmu-size_restricted.gif)](http://www.msrtanim.xyz)
 
 # Install System
-      rm -rf rrrr cloning
-      git clone https://github.com/EKRAM-143/rrrr cloning.git
+      rm -rf rrrr-cloning
+      git clone https://github.com/EKRAM-143/rrrr-cloning.git
 	  ls
-      cd rrrr cloning
+      cd rrrr-cloning
 	  ls
       python rrrr.py
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F716&width=435&lines=%F0%9F%A5%B0ANY+TERMINAL+CAN+RUN+THIS+SCRIPT%F0%9F%A5%B0)](https://git.io/typing-svg)
